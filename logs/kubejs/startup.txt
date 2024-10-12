@@ -1,8 +1,8 @@
-[15:49:40] [INFO ] Loaded script startup_scripts:abyss_portal.js in 0.121 s
-[15:49:40] [INFO ] Loaded mutation_sickness_check.js
-[15:49:40] [INFO ] Loaded script startup_scripts:mutation_ignore.js in 0.014 s
-[15:49:40] [INFO ] Loaded script startup_scripts:ore_removal.js in 0.001 s
-[15:49:40] [INFO ] Hello, World! (You will only see this line once in console, during startup)
-[15:49:40] [INFO ] Loaded script startup_scripts:script.js in 0.001 s
-[15:49:40] [INFO ] Loaded 4/4 KubeJS startup scripts in 0.928 s
-[15:49:40] [WARN ] Class filter is disabled!
+[15:25:28] [INFO ] Loaded script startup_scripts:abyss_portal.js in 0.299 s
+[15:25:28] [INFO ] Loaded mutation_sickness_check.js
+[15:25:28] [INFO ] Loaded script startup_scripts:mutation_ignore.js in 0.019 s
+[15:25:28] [INFO ] Loaded script startup_scripts:ore_removal.js in 0.002 s
+[15:25:28] [INFO ] Hello, World! (You will only see this line once in console, during startup)
+[15:25:28] [INFO ] Loaded script startup_scripts:script.js in 0.005 s
+[15:25:28] [INFO ] Loaded 4/4 KubeJS startup scripts in 2.023 s
+[15:25:28] [WARN ] Class filter is disabled!
