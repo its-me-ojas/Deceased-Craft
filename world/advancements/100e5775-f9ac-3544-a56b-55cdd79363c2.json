@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-10-15 04:18:20 +0530"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/thermolith": {
     "criteria": {
       "has_recipe": "2024-10-13 01:53:23 +0530"
@@ -77,6 +83,12 @@
     },
     "done": true
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-10-15 02:20:13 +0530"
+    },
+    "done": true
+  },
   "cold_sweat:root": {
     "criteria": {
       "requirement": "2024-10-13 01:53:23 +0530"
@@ -91,7 +103,7 @@
   },
   "immersiveengineering:multiblocks/craft_sheetmetal": {
     "criteria": {
-      "has_item": "2024-10-13 04:27:32 +0530"
+      "has_item": "2024-10-15 05:00:55 +0530"
     },
     "done": true
   },
@@ -199,8 +211,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2024-10-15 06:06:07 +0530",
       "apple": "2024-10-13 04:36:06 +0530",
-      "bread": "2024-10-13 02:09:05 +0530"
+      "bread": "2024-10-13 02:09:05 +0530",
+      "golden_apple": "2024-10-15 02:15:59 +0530"
     },
     "done": false
   },
@@ -228,6 +242,12 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-10-15 04:52:16 +0530"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "woodland": "2024-10-13 02:14:12 +0530"
@@ -237,6 +257,12 @@
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:23 +0530"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/craft_duroplast": {
+    "criteria": {
+      "has_item": "2024-10-15 04:32:16 +0530"
     },
     "done": true
   },
@@ -348,6 +374,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-10-15 03:57:53 +0530"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:22 +0530"
@@ -408,6 +440,12 @@
     },
     "done": true
   },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2024-10-15 03:16:41 +0530"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:23 +0530"
@@ -450,9 +488,16 @@
       "dryland": "2024-10-13 04:55:10 +0530",
       "redwood_forest": "2024-10-13 05:11:34 +0530",
       "cherry_blossom_grove": "2024-10-13 05:56:14 +0530",
-      "rocky_rainforest": "2024-10-13 04:50:59 +0530"
+      "rocky_rainforest": "2024-10-13 04:50:59 +0530",
+      "grassland": "2024-10-15 03:22:40 +0530"
     },
     "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-10-15 02:17:49 +0530"
+    },
+    "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
@@ -687,6 +732,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:22 +0530"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-10-15 04:28:35 +0530"
     },
     "done": true
   },

@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-10-15 02:38:57 +0530"
+    },
+    "done": false
+  },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
@@ -71,6 +77,12 @@
     },
     "done": true
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-10-15 02:18:27 +0530"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
@@ -85,7 +97,7 @@
   },
   "immersiveengineering:multiblocks/craft_sheetmetal": {
     "criteria": {
-      "has_item": "2024-10-13 04:27:35 +0530"
+      "has_item": "2024-10-15 05:01:02 +0530"
     },
     "done": true
   },
@@ -104,6 +116,12 @@
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2024-10-15 02:22:59 +0530"
     },
     "done": true
   },
@@ -191,6 +209,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_apple": "2024-10-15 02:58:11 +0530",
+      "cookie": "2024-10-15 05:12:38 +0530"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
@@ -215,6 +240,12 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-10-15 04:52:33 +0530"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "woodland": "2024-10-13 02:04:53 +0530"
@@ -229,7 +260,7 @@
   },
   "immersiveengineering:multiblocks/craft_duroplast": {
     "criteria": {
-      "has_item": "2024-10-13 03:10:34 +0530"
+      "has_item": "2024-10-15 03:41:55 +0530"
     },
     "done": true
   },
@@ -317,6 +348,12 @@
     },
     "done": true
   },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow": "2024-10-15 02:51:50 +0530"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
@@ -344,6 +381,12 @@
   "comforts:hammock_magenta": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-10-15 03:55:54 +0530"
     },
     "done": true
   },
@@ -443,7 +486,8 @@
       "dryland": "2024-10-13 04:55:10 +0530",
       "redwood_forest": "2024-10-13 05:11:29 +0530",
       "cherry_blossom_grove": "2024-10-13 05:56:20 +0530",
-      "rocky_rainforest": "2024-10-13 04:51:05 +0530"
+      "rocky_rainforest": "2024-10-13 04:51:05 +0530",
+      "grassland": "2024-10-15 03:22:43 +0530"
     },
     "done": false
   },
@@ -457,12 +501,14 @@
     "criteria": {
       "minecraft:windswept_hills": "2024-10-13 05:11:14 +0530",
       "minecraft:beach": "2024-10-13 04:43:45 +0530",
+      "minecraft:dark_forest": "2024-10-15 03:15:32 +0530",
       "minecraft:river": "2024-10-13 01:57:40 +0530",
       "minecraft:lukewarm_ocean": "2024-10-13 04:43:54 +0530",
       "minecraft:forest": "2024-10-13 01:57:43 +0530",
       "minecraft:desert": "2024-10-13 04:54:28 +0530",
       "minecraft:windswept_forest": "2024-10-13 05:16:38 +0530",
       "minecraft:jungle": "2024-10-13 04:50:04 +0530",
+      "minecraft:ocean": "2024-10-15 05:09:25 +0530",
       "minecraft:windswept_savanna": "2024-10-13 05:10:51 +0530",
       "minecraft:warm_ocean": "2024-10-13 04:54:12 +0530",
       "minecraft:deep_lukewarm_ocean": "2024-10-13 04:54:03 +0530",
@@ -480,6 +526,12 @@
   "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-10-15 02:19:38 +0530"
     },
     "done": true
   },
@@ -567,6 +619,12 @@
     },
     "done": true
   },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat": "2024-10-15 01:35:22 +0530"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_chest": "2024-10-13 01:58:12 +0530"
@@ -594,6 +652,12 @@
   "comforts:hammock_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/super_magnet": {
+    "criteria": {
+      "super_magnet": "2024-10-15 01:52:32 +0530"
     },
     "done": true
   },
@@ -656,6 +720,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-10-15 05:04:17 +0530"
     },
     "done": true
   },
