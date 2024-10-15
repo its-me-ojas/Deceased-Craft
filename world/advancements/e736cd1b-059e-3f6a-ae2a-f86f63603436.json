@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-10-15 07:00:28 +0530"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
@@ -200,6 +206,12 @@
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "has_item": "2024-10-15 06:48:38 +0530"
     },
     "done": true
   },
@@ -487,7 +499,8 @@
       "redwood_forest": "2024-10-13 05:11:29 +0530",
       "cherry_blossom_grove": "2024-10-13 05:56:20 +0530",
       "rocky_rainforest": "2024-10-13 04:51:05 +0530",
-      "grassland": "2024-10-15 03:22:43 +0530"
+      "grassland": "2024-10-15 03:22:43 +0530",
+      "glowing_grotto": "2024-10-15 07:15:44 +0530"
     },
     "done": false
   },
@@ -544,6 +557,12 @@
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/multiblocks_root": {
+    "criteria": {
+      "has_item": "2024-10-15 06:48:38 +0530"
     },
     "done": true
   },
@@ -627,6 +646,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2024-10-15 07:17:37 +0530",
       "opened_chest": "2024-10-13 01:58:12 +0530"
     },
     "done": false
@@ -799,6 +819,12 @@
   "crossbowverhaul:recipes/combat/bolt_iron": {
     "criteria": {
       "has_ingot": "2024-10-13 02:57:36 +0530"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-10-15 07:17:37 +0530"
     },
     "done": true
   },

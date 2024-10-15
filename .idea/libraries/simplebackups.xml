@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="simplebackups">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/simplebackups/world_2024-10-15_05-20-13.zip!/" />
+      <root url="jar://$PROJECT_DIR$/simplebackups/world_2024-10-15_03-20-12.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
