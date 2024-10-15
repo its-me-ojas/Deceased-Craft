@@ -19,9 +19,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2024-10-15 02:38:57 +0530"
+      "0": "2024-10-15 02:38:57 +0530",
+      "1": "2024-10-15 15:04:54 +0530"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
@@ -77,6 +78,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-10-15 15:18:16 +0530"
+    },
+    "done": true
+  },
   "create:andesite_alloy": {
     "criteria": {
       "0": "2024-10-15 02:18:27 +0530"
@@ -104,6 +111,12 @@
   "undead_revamp2:theundeadchallenges": {
     "criteria": {
       "theundeadchallenges": "2024-10-13 01:53:26 +0530"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2024-10-15 15:52:32 +0530"
     },
     "done": true
   },
@@ -566,6 +579,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-10-15 15:13:58 +0530"
+    },
+    "done": true
+  },
   "cold_sweat:extreme_temps": {
     "criteria": {
       "requirement": "2024-10-13 01:53:25 +0530"
@@ -605,6 +624,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2024-10-13 02:17:52 +0530"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2024-10-15 15:26:48 +0530"
     },
     "done": true
   },
@@ -707,6 +732,12 @@
     },
     "done": true
   },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2024-10-15 15:08:32 +0530"
+    },
+    "done": true
+  },
   "comforts:hammock_lime_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
@@ -782,6 +813,12 @@
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2024-10-15 15:18:12 +0530"
     },
     "done": true
   },
