@@ -216,6 +216,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-10-17 23:59:37 +0530"
+    },
+    "done": true
+  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
@@ -621,6 +627,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/main_root": {
+    "criteria": {
+      "has_item": "2024-10-18 00:29:49 +0530"
+    },
+    "done": true
+  },
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2024-10-13 02:17:52 +0530"
@@ -819,6 +831,12 @@
   "create:fan_processing": {
     "criteria": {
       "0": "2024-10-15 15:18:12 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-10-17 23:43:46 +0530"
     },
     "done": true
   },

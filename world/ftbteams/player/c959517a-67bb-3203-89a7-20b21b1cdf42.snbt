@@ -1,0 +1,17 @@
+{
+	id: "c959517a-67bb-3203-89a7-20b21b1cdf42"
+	type: "player"
+	player_name: "Tranished"
+	ranks: {
+		c959517a-67bb-3203-89a7-20b21b1cdf42: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Tranished"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C3FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

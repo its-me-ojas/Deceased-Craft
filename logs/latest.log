@@ -1,52 +1,47 @@
-[16Oct2024 00:04:18.871] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@25c55305
-[16Oct2024 00:04:18.886] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: whitehairguy[/127.0.0.1:38562] logged in with entity id 35927 at (-857.5638968451682, 60.0, 587.1549228250104)
-[16Oct2024 00:04:18.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: whitehairguy joined the game
-[16Oct2024 00:04:18.933] [Server thread/INFO] [tac/]: PENDING
-[16Oct2024 00:04:19.050] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e736cd1b-059e-3f6a-ae2a-f86f63603436
-[16Oct2024 00:04:19.070] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:05:53 at 786375, 843243
-[16Oct2024 00:04:19.482] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of whitehairguy (17)
-[16Oct2024 00:04:19.485] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to whitehairguy
-[16Oct2024 00:04:32.623] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e736cd1b-059e-3f6a-ae2a-f86f63603436
-[16Oct2024 00:04:33.624] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e736cd1b-059e-3f6a-ae2a-f86f63603436
-[16Oct2024 00:04:33.625] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player whitehairguy (e736cd1b-059e-3f6a-ae2a-f86f63603436) successfully connected to voice chat
-[16Oct2024 00:10:00.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: whitehairguy lost connection: Disconnected
-[16Oct2024 00:10:00.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: whitehairguy left the game
-[16Oct2024 00:10:00.072] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e736cd1b-059e-3f6a-ae2a-f86f63603436
-[16Oct2024 00:10:00.073] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 793199, 850067
-[16Oct2024 00:10:00.074] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client whitehairguy
-[16Oct2024 00:11:01.002] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@ca7e13
-[16Oct2024 00:11:01.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: whitehairguy[/127.0.0.1:44530] logged in with entity id 74602 at (-859.4014121639673, 60.0, 585.9415415065066)
-[16Oct2024 00:11:01.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: whitehairguy joined the game
-[16Oct2024 00:11:01.130] [Server thread/INFO] [tac/]: PENDING
-[16Oct2024 00:11:01.190] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e736cd1b-059e-3f6a-ae2a-f86f63603436
-[16Oct2024 00:11:01.206] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:01:01 at 793199, 850067
-[16Oct2024 00:11:01.569] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of whitehairguy (17)
-[16Oct2024 00:11:01.570] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to whitehairguy
-[16Oct2024 00:11:15.805] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e736cd1b-059e-3f6a-ae2a-f86f63603436
-[16Oct2024 00:11:16.805] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e736cd1b-059e-3f6a-ae2a-f86f63603436
-[16Oct2024 00:11:16.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player whitehairguy (e736cd1b-059e-3f6a-ae2a-f86f63603436) successfully connected to voice chat
-[16Oct2024 00:25:49.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: whitehairguy lost connection: Disconnected
-[16Oct2024 00:25:49.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: whitehairguy left the game
-[16Oct2024 00:25:49.079] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e736cd1b-059e-3f6a-ae2a-f86f63603436
-[16Oct2024 00:25:49.080] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 810961, 867829
-[16Oct2024 00:25:49.082] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client whitehairguy
-[16Oct2024 00:35:25.253] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b2f35bc
-[16Oct2024 00:35:25.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: whitehairguy[/127.0.0.1:43028] logged in with entity id 166821 at (-868.9638633653957, 72.0, 561.8128636594826)
-[16Oct2024 00:35:25.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: whitehairguy joined the game
-[16Oct2024 00:35:25.498] [Server thread/INFO] [tac/]: PENDING
-[16Oct2024 00:35:25.589] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e736cd1b-059e-3f6a-ae2a-f86f63603436
-[16Oct2024 00:35:25.636] [Server thread/INFO] [readyplayerfun/]: Unpausing server: onPlayerLogin, 0:09:36 at 810961, 867829
-[16Oct2024 00:35:26.196] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of whitehairguy (17)
-[16Oct2024 00:35:26.197] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to whitehairguy
-[16Oct2024 00:35:41.597] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e736cd1b-059e-3f6a-ae2a-f86f63603436
-[16Oct2024 00:35:42.597] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e736cd1b-059e-3f6a-ae2a-f86f63603436
-[16Oct2024 00:35:42.599] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player whitehairguy (e736cd1b-059e-3f6a-ae2a-f86f63603436) successfully connected to voice chat
-[16Oct2024 00:45:30.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: whitehairguy lost connection: Disconnected
-[16Oct2024 00:45:30.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: whitehairguy left the game
-[16Oct2024 00:45:30.895] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e736cd1b-059e-3f6a-ae2a-f86f63603436
-[16Oct2024 00:45:30.896] [Server thread/INFO] [readyplayerfun/]: Pausing server onPlayerLogout at 823075, 879943
-[16Oct2024 00:45:30.898] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client whitehairguy
-[16Oct2024 00:45:37.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[16Oct2024 00:45:37.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[16Oct2024 00:45:37.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[16Oct2024 00:45:37.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Oct2024 00:00:48.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tranished was slain by The Moonflower
+[18Oct2024 00:00:50.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Oct2024 00:00:50.561] [Server thread/INFO] [tac/]: PENDING
+[18Oct2024 00:01:01.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Tranished> xaero-waypoint:Shared Location:S:0:74:4:3:false:0:Internal-overworld-waypoints
+[18Oct2024 00:03:10.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tranished lost connection: Disconnected
+[18Oct2024 00:03:10.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tranished left the game
+[18Oct2024 00:03:10.788] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for c959517a-67bb-3203-89a7-20b21b1cdf42
+[18Oct2024 00:03:10.789] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Tranished
+[18Oct2024 00:03:10.840] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11241 in deceasedcraft:abyss
+[18Oct2024 00:03:10.841] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11241 in minecraft:the_end
+[18Oct2024 00:03:10.842] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11241 in lostcities:lostcity
+[18Oct2024 00:03:10.844] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11241 in minecraft:the_nether
+[18Oct2024 00:03:10.864] [Server thread/INFO] [sereneseasons/]: Season time skipped by 11241 in minecraft:overworld
+[18Oct2024 00:03:18.446] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@68ab5cb5
+[18Oct2024 00:03:18.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tranished[/127.8.182.13:45563] logged in with entity id 241847 at (-144.35819167491795, 73.0, 136.67935505951945)
+[18Oct2024 00:03:18.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tranished joined the game
+[18Oct2024 00:03:18.493] [Server thread/INFO] [tac/]: PENDING
+[18Oct2024 00:03:18.652] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for c959517a-67bb-3203-89a7-20b21b1cdf42
+[18Oct2024 00:03:18.902] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Tranished (17)
+[18Oct2024 00:03:18.904] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Tranished
+[18Oct2024 00:07:37.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tranished fell from a high place
+[18Oct2024 00:07:42.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[18Oct2024 00:07:42.162] [Server thread/INFO] [tac/]: PENDING
+[18Oct2024 00:08:56.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [whitehairguy: Teleported Tranished to whitehairguy]
+[18Oct2024 00:22:08.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tranished has made the advancement [Sweet Dreams]
+[18Oct2024 00:22:14.002] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1142 in deceasedcraft:abyss
+[18Oct2024 00:22:14.003] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1142 in minecraft:the_end
+[18Oct2024 00:22:14.005] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1142 in lostcities:lostcity
+[18Oct2024 00:22:14.007] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1142 in minecraft:the_nether
+[18Oct2024 00:22:14.013] [Server thread/INFO] [sereneseasons/]: Season time skipped by 1142 in minecraft:overworld
+[18Oct2024 00:24:35.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tranished has made the advancement [Suit Up]
+[18Oct2024 00:24:37.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tranished has made the advancement [Barrel Booty]
+[18Oct2024 00:29:49.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: whitehairguy has made the advancement [Immersive Engineering]
+[18Oct2024 00:29:53.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tranished has made the advancement [Immersive Engineering]
+[18Oct2024 00:40:55.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tranished has made the advancement [Monster Hunter]
+[18Oct2024 00:43:06.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tranished has made the advancement [Acquire Hardware]
+[18Oct2024 00:43:51.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tranished has made the advancement [Isn't It Iron Pick]
+[18Oct2024 00:50:33.610] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4a9b889a
+[18Oct2024 00:50:33.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rad1108[/127.238.2.243:54961] logged in with entity id 526493 at (-857.3562979148734, 60.0, 584.761770847915)
+[18Oct2024 00:50:33.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Rad1108 joined the game
+[18Oct2024 00:50:33.650] [Server thread/INFO] [tac/]: PENDING
+[18Oct2024 00:50:33.734] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 100e5775-f9ac-3544-a56b-55cdd79363c2
+[18Oct2024 00:50:34.444] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Rad1108 (17)
+[18Oct2024 00:50:34.446] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Rad1108
+[18Oct2024 00:52:21.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18Oct2024 00:55:51.855] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tranished has made the advancement [Disme A Dozen]
+[18Oct2024 00:58:15.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
