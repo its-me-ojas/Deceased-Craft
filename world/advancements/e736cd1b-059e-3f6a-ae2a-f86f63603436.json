@@ -168,6 +168,12 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/ice_cube": {
+    "criteria": {
+      "ice_cube": "2024-10-19 01:13:00 +0530"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
@@ -291,6 +297,12 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/light_gloves": {
+    "criteria": {
+      "light_gloves": "2024-10-19 01:11:57 +0530"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
@@ -312,6 +324,12 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "woodland": "2024-10-13 02:04:53 +0530"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/cracked_crown": {
+    "criteria": {
+      "cracked_crown": "2024-10-19 01:12:31 +0530"
     },
     "done": true
   },
@@ -402,6 +420,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-10-13 03:35:03 +0530"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-10-19 01:27:17 +0530"
     },
     "done": true
   },
@@ -501,6 +525,12 @@
     },
     "done": true
   },
+  "nameless_trinkets:obtain/moon_stone": {
+    "criteria": {
+      "moon_stone": "2024-10-19 01:14:22 +0530"
+    },
+    "done": true
+  },
   "cold_sweat:survival_tactics": {
     "criteria": {
       "freezing_on_fire": "2024-10-18 05:48:03 +0530"
@@ -549,6 +579,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-10-19 01:27:29 +0530"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2024-10-13 02:04:53 +0530",
@@ -572,6 +608,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-10-13 04:11:44 +0530"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/experience_magnet": {
+    "criteria": {
+      "experience_magnet": "2024-10-19 01:11:47 +0530"
     },
     "done": true
   },
@@ -708,6 +750,12 @@
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2024-10-13 01:53:25 +0530"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/rage_mind": {
+    "criteria": {
+      "rage_mind": "2024-10-19 01:12:13 +0530"
     },
     "done": true
   },
@@ -885,6 +933,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-10-13 02:17:41 +0530"
+    },
+    "done": true
+  },
+  "nameless_trinkets:obtain/dark_nelumbo": {
+    "criteria": {
+      "dark_nelumbo": "2024-10-19 01:13:41 +0530"
     },
     "done": true
   },
