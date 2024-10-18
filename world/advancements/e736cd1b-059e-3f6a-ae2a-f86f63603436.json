@@ -90,6 +90,12 @@
     },
     "done": true
   },
+  "immersiveengineering:tools/tools_root": {
+    "criteria": {
+      "has_item": "2024-10-18 04:14:32 +0530"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
@@ -180,6 +186,12 @@
     },
     "done": true
   },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2024-10-18 02:37:00 +0530"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
@@ -243,6 +255,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "golden_apple": "2024-10-15 02:58:11 +0530",
+      "bread": "2024-10-18 05:21:45 +0530",
       "cookie": "2024-10-15 05:12:38 +0530"
     },
     "done": false
@@ -256,6 +269,12 @@
   "comforts:hammock_yellow_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/mb_refinery": {
+    "criteria": {
+      "form_multiblock": "2024-10-18 05:09:57 +0530"
     },
     "done": true
   },
@@ -421,6 +440,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2024-10-18 01:41:09 +0530"
+    },
+    "done": true
+  },
   "cold_sweat:recipes/waterskin": {
     "criteria": {
       "has_recipe": "2024-10-13 01:53:25 +0530"
@@ -460,6 +485,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:husk": "2024-10-13 02:16:50 +0530"
+    },
+    "done": true
+  },
+  "cold_sweat:survival_tactics": {
+    "criteria": {
+      "freezing_on_fire": "2024-10-18 05:48:03 +0530"
     },
     "done": true
   },
@@ -514,10 +545,12 @@
       "old_growth_woodland": "2024-10-13 04:34:49 +0530",
       "wooded_wasteland": "2024-10-13 04:54:59 +0530",
       "mediterranean_forest": "2024-10-13 04:53:44 +0530",
+      "coniferous_forest": "2024-10-18 01:38:46 +0530",
       "dryland": "2024-10-13 04:55:10 +0530",
       "redwood_forest": "2024-10-13 05:11:29 +0530",
       "cherry_blossom_grove": "2024-10-13 05:56:20 +0530",
       "rocky_rainforest": "2024-10-13 04:51:05 +0530",
+      "lavender_field": "2024-10-18 06:20:19 +0530",
       "grassland": "2024-10-15 03:22:43 +0530",
       "glowing_grotto": "2024-10-15 07:15:44 +0530"
     },
@@ -536,6 +569,8 @@
       "minecraft:dark_forest": "2024-10-15 03:15:32 +0530",
       "minecraft:river": "2024-10-13 01:57:40 +0530",
       "minecraft:lukewarm_ocean": "2024-10-13 04:43:54 +0530",
+      "minecraft:dripstone_caves": "2024-10-18 06:09:06 +0530",
+      "minecraft:cold_ocean": "2024-10-18 01:37:53 +0530",
       "minecraft:forest": "2024-10-13 01:57:43 +0530",
       "minecraft:desert": "2024-10-13 04:54:28 +0530",
       "minecraft:windswept_forest": "2024-10-13 05:16:38 +0530",
@@ -681,6 +716,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-10-18 03:31:48 +0530"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-10-15 07:17:37 +0530",
@@ -725,6 +766,12 @@
       "minecraft:zombie_villager": "2024-10-13 02:26:16 +0530"
     },
     "done": false
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "has_item": "2024-10-18 04:14:32 +0530"
+    },
+    "done": true
   },
   "pfm:recipes/root": {
     "criteria": {
