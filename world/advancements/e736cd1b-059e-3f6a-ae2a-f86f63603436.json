@@ -24,6 +24,12 @@
     },
     "done": true
   },
+  "create:deployer": {
+    "criteria": {
+      "0": "2024-10-18 17:29:29 +0530"
+    },
+    "done": true
+  },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
@@ -156,6 +162,12 @@
     },
     "done": true
   },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2024-10-18 16:41:03 +0530"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2024-10-13 01:53:25 +0530"
@@ -254,6 +266,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2024-10-18 16:08:06 +0530",
       "golden_apple": "2024-10-15 02:58:11 +0530",
       "bread": "2024-10-18 05:21:45 +0530",
       "cookie": "2024-10-15 05:12:38 +0530"
